@@ -18,7 +18,7 @@ int main()
 	cout << *it << endl;
 	fl.insert_after(it, 999);
 
-	for (auto el : fl)//вывели элемент из объекта fl, см урок137
+	for (auto el : fl)//вывели элемент из объекта fl 
 	{
 		cout << el << endl;
 	}
